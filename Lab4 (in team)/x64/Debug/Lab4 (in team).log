@@ -1,0 +1,9 @@
+﻿  Lab4 (in team).cpp
+C:\Users\Diana\Desktop\Lab4 (in team)\Lab4 (in team)\Lab4 (in team).cpp(145,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team)\Lab4 (in team)\Lab4 (in team).cpp(146,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team)\Lab4 (in team)\Lab4 (in team).cpp(147,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team)\Lab4 (in team)\Lab4 (in team).cpp(165,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team)\Lab4 (in team)\Lab4 (in team).cpp(204,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team)\Lab4 (in team)\Lab4 (in team).cpp(205,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team)\Lab4 (in team)\Lab4 (in team).cpp(319,22): warning C4101: error: неиспользованная локальная переменная
+  Lab4 (in team).vcxproj -> C:\Users\Diana\Desktop\Lab4 (in team)\x64\Debug\Lab4 (in team).exe
